@@ -19,7 +19,7 @@ ____
 <a href="https://vk.com/id10213514" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="daniilshat" height="40" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirSukhoparov&layout=compact&theme=calm&langs_count=18)](https://github.com/VladimirSukhoparov/github-readme-stats)
+
 
 <!--
 **VladimirSukhoparov/VladimirSukhoparov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
