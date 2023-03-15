@@ -11,9 +11,6 @@
 ____
 [![codewars](https://www.codewars.com/users/Vladimir-Sukhoparov/badges/small)](https://www.codewars.com/users/Vladimir-Sukhoparov) 
 
-____
-
-- 📫 How to reach me **sukhoparov.v.n@gmail.com**
 
 ____
 
