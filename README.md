@@ -1,6 +1,4 @@
 <div id="header" align="center">
-<h1 align="center">Hi there, I'm Vladimir 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br/>
 <hr/>
 </div>
